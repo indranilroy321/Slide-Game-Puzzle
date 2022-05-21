@@ -4,4 +4,4 @@
 
 ⭐This program is written in Python language using Pygame module for graphics and animations.
 
-⭐This program is written for absolute beginners with every line of the code explained in great detail. 
+⭐This program is for absolute beginners with every line of the code explained in great detail. 
